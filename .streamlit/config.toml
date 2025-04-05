@@ -1,0 +1,18 @@
+[theme]
+# Primary accent color for highlights, buttons, sliders
+primaryColor = "#3fc1c9"  # Cyan-teal glow, futuristic vibe
+
+# Background color for the main content (deep dark slate)
+backgroundColor = "#121212"
+
+# Sidebar and widget background (slightly lighter gray)
+secondaryBackgroundColor = "#1e1e1e"
+
+# Main text color (cool white)
+textColor = "#e0e0e0"
+
+# Optional: custom font (uncomment if you want a sci-fi look)
+# font = "monospace"
+
+[client]
+toolbarMode = "minimal"
